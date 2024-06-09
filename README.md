@@ -61,6 +61,11 @@ Once the program is running you have a ftp server running, for connecting client
 ./myftp 2121 /home/ftp
 ```
 
+## Tests
+<div align="center">
+  <img src="./tests/tests.png" />
+</div>
+
 ## Authors
 
 | [<img src="https://github.com/RenzoMaggiori.png?size=85" width=85><br><sub>Renzo Maggiori</sub>](https://github.com/RenzoMaggiori)
